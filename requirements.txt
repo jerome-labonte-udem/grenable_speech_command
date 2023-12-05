@@ -1,3 +1,4 @@
 jupyter==1.0.0
 protobuf==3.20.0
 tensorflow-cpu==1.15.0
+jupyter-server>=2.11.2 # not directly required, pinned by Snyk to avoid a vulnerability
